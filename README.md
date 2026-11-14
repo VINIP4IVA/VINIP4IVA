@@ -1,15 +1,15 @@
-<h1 align="center">⚔️ Ashen One ⚔️</h1>
-<p align="center"><i>"Ashen one, hearest thou my voice, still?"</i></p>
+<p align="center">
+  <img src="assets/ashen-one.gif" width="256" alt="Ashen One pixel art">
+</p>
 
-## 🔥 Bonfire Lit
-Desenvolvedor forjado nas chamas do código.
+<p align="center">
+  <a href="https://github.com/seuusuario">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1200&color=FF6A00&center=true&vCenter=true&width=700&height=60&lines=Ashen+one%2C+hearest+thou+my+voice%2C+still%3F;Linking+the+fire%2C+one+commit+at+a+time;Praise+the+Sun+%5C%5Co%2F;YOU+DIED" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🗡️ Equipamento (Stack)
-- **Arma principal:** Python
-- **Escudo:** Git
-- **Catalisador:** JavaScript
+<h2 align="center">🔥 Bonfire Lit</h2>
 
-## 💀 Estatísticas
-- Nível de Alma: ∞ commits
-- Mortes (bugs): incontáveis
-- Estus Flask: café ☕
+<p align="center">
+  Desenvolvedor forjado nas chamas do código.
+</p>
