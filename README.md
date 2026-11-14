@@ -11,6 +11,8 @@ Local: Lothric
 
 </details>
 
+- Cusando Cybersegurança na FIAP com foco em SOC
+
 <details>
 <summary><b>⚔️ Equipamento (Stack)</b></summary>
 
@@ -18,8 +20,5 @@ Local: Lothric
 - Escudo: Git
 
 </details>
-
-- Email: 
-- LinkedIn: seulink
 
 </details>
