@@ -36,9 +36,9 @@
   <text class="back" x="400" y="190" text-anchor="middle">VINICIUS</text>
 
   <!-- camadas laterais -->
-  <text class="l1" x="20"  y="50"  text-anchor="start">Cursando Cybersecurity</text>
-  <text class="l2" x="780" y="110" text-anchor="end">na FIAP</text>
-  <text class="l3" x="40"  y="260" text-anchor="start">com foco em SOC!</text>
+  <text class="l1" x="20"  y="50"  text-anchor="start">Rise, if you would...</text>
+  <text class="l2" x="780" y="110" text-anchor="end">Undead</text>
+  <text class="l3" x="40"  y="260" text-anchor="start"> That is our curse.!</text>
 
   <!-- camada da frente -->
   <text class="front" x="400" y="180" text-anchor="middle">VINICIUS</text>
