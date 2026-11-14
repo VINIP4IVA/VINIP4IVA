@@ -41,6 +41,6 @@
   <text class="l3" x="40"  y="260" text-anchor="start"> That is our curse...</text>
 
   <!-- camada da frente -->
-  <text class="front" x="400" y="180" text-anchor="middle">VINICIUS</text>
+  <text class="front" x="400" y="180" text-anchor="middle">You Died</text>
   <text class="full"  x="400" y="300" text-anchor="middle">Cursando Cybersecurity na FIAP com foco em SOC!</text>
 </svg>
