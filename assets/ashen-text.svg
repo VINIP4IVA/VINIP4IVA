@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
+  <style>
+    text { font-family: Georgia, 'Times New Roman', serif; opacity: 0; }
+
+    @keyframes fade {
+      0%   { opacity: 0; }
+      15%  { opacity: 1; }
+      60%  { opacity: 1; }
+      80%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    @keyframes fromLeft {
+      0%   { opacity: 0; transform: translateX(-60px); }
+      15%  { opacity: 1; transform: translateX(0); }
+      60%  { opacity: 1; transform: translateX(0); }
+      80%  { opacity: 0; transform: translateX(0); }
+      100% { opacity: 0; }
+    }
+    @keyframes fromRight {
+      0%   { opacity: 0; transform: translateX(60px); }
+      15%  { opacity: 1; transform: translateX(0); }
+      60%  { opacity: 1; transform: translateX(0); }
+      80%  { opacity: 0; transform: translateX(0); }
+      100% { opacity: 0; }
+    }
+
+    .back   { font-size: 90px; fill: #4a0000; letter-spacing: 12px; animation: fade 10s infinite; }
+    .l1     { font-size: 20px; fill: #b30000; animation: fromLeft 10s infinite; animation-delay: 0.5s; }
+    .l2     { font-size: 24px; fill: #ff1a1a; animation: fromRight 10s infinite; animation-delay: 1.5s; }
+    .l3     { font-size: 18px; fill: #8b0000; animation: fromLeft 10s infinite; animation-delay: 2.5s; }
+    .l4     { font-size: 22px; fill: #d10000; animation: fromRight 10s infinite; animation-delay: 3.5s; }
+    .front  { font-size: 56px; fill: #ff0000; letter-spacing: 8px; animation: fade 10s infinite; animation-delay: 4.5s; }
+  </style>
+
+  <!-- camada de fundo -->
+  <text class="back" x="400" y="190" text-anchor="middle">YOU DIED</text>
+
+  <!-- camadas laterais -->
+  <text class="l1" x="20"  y="50"  text-anchor="start">Ashen one, hearest thou my voice, still?</text>
+  <text class="l2" x="780" y="110" text-anchor="end">Linking the fire...</text>
+  <text class="l3" x="40"  y="260" text-anchor="start">Praise the Sun \o/</text>
+  <text class="l4" x="760" y="300" text-anchor="end">Git gud, Ashen One</text>
+
+  <!-- camada da frente -->
+  <text class="front" x="400" y="180" text-anchor="middle">YOU DIED</text>
+</svg>
