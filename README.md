@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">⚔️ Ashen One ⚔️</h1>
+<p align="center"><i>"Ashen one, hearest thou my voice, still?"</i></p>
 
-<!--
-**VINIP4IVA/VINIP4IVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Bonfire Lit
+Desenvolvedor forjado nas chamas do código.
 
-Here are some ideas to get you started:
+## 🗡️ Equipamento (Stack)
+- **Arma principal:** Python
+- **Escudo:** Git
+- **Catalisador:** JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💀 Estatísticas
+- Nível de Alma: ∞ commits
+- Mortes (bugs): incontáveis
+- Estus Flask: café ☕
